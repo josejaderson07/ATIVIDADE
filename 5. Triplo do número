@@ -1,0 +1,7 @@
+texto = input("Digite um número: ")
+
+n = int(texto)
+
+triplo = n * 3
+
+print("Triplo:", triplo)
