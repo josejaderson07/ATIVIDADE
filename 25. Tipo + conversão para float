@@ -1,0 +1,9 @@
+valor = input("Digite algo: ")
+
+print("Tipo:", type(valor))
+
+try:
+    n = float(valor)
+    print("Resultado:", n / 2)
+except:
+    print("Não numérico")
