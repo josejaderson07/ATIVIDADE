@@ -1,0 +1,7 @@
+valor = input("Digite algo: ")
+
+print("Tipo:", type(valor))
+
+n = int(valor)
+
+print("Quadrado:", n * 2)
