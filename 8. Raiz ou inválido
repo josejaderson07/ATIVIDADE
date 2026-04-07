@@ -1,0 +1,7 @@
+n = int(input("Digite um número: "))
+
+if n > 0:
+    raiz = n ** 0.5
+    print("Raiz aproximada:", raiz)
+else:
+    print("Número inválido")
