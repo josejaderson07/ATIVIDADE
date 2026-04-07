@@ -1,0 +1,4 @@
+valor = input("Digite algo: ")
+
+print("Valor digitado:", valor)
+print("Tipo:", type(valor))
