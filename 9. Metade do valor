@@ -1,0 +1,7 @@
+valor = input("Digite um número: ")
+
+n = float(valor)
+
+metade = n / 2
+
+print("Metade:", metade)
